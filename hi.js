@@ -5,12 +5,7 @@ const USERS = [
     username: "admin01",
     password: "123456"
   },
-  {
-    id: 2,
-    name: "user",
-    username: "user01",
-    password: "password"
-  }
+  
 ];
 
 const data = [
